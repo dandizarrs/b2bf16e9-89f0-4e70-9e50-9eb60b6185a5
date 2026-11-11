@@ -1,0 +1,12 @@
+1794437884s 1 https://dandiarchive.s3.amazonaws.com/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/prd/bof_time/zarr.json?versionId=dhtZoIPZqFo534mpWBxO2cq1wEaANi1g
+1794437884s 1 https://api.dandiarchive.org/api/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/files?prefix=prd%2Fbof_time%2Fzarr.json&download=true
+1794437884s 1 https://dandiarchive.s3.amazonaws.com/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/prd/eof_time/zarr.json?versionId=f3ZZbaYSJ6I9JAUViAZBnzV09G.oGJVJ
+1794437884s 1 https://api.dandiarchive.org/api/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/files?prefix=prd%2Feof_time%2Fzarr.json&download=true
+1794437884s 1 https://dandiarchive.s3.amazonaws.com/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/prd/exposure_time/zarr.json?versionId=DYHIzLLZcpH2nxBtbH2im0dNZzJKdYPD
+1794437884s 1 https://api.dandiarchive.org/api/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/files?prefix=prd%2Fexposure_time%2Fzarr.json&download=true
+1794437884s 1 https://dandiarchive.s3.amazonaws.com/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/prd/frame_number/zarr.json?versionId=3KY3hAYUt3bHqoCw5zGFWFX5iFy1ql0s
+1794437884s 1 https://api.dandiarchive.org/api/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/files?prefix=prd%2Fframe_number%2Fzarr.json&download=true
+1794437884s 1 https://dandiarchive.s3.amazonaws.com/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/prd/readout_time/zarr.json?versionId=ABI0X6yYYBh90r20ZTLE3oVzQOlQ3SJr
+1794437884s 1 https://api.dandiarchive.org/api/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/files?prefix=prd%2Freadout_time%2Fzarr.json&download=true
+1794437884s 1 https://dandiarchive.s3.amazonaws.com/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/prd/roi_count/zarr.json?versionId=WKFcuWusdEuHTLFFBveecblropOfGHfV
+1794437884s 1 https://api.dandiarchive.org/api/zarr/b2bf16e9-89f0-4e70-9e50-9eb60b6185a5/files?prefix=prd%2Froi_count%2Fzarr.json&download=true
